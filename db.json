@@ -3,69 +3,52 @@
     {
       "email": "gaetano.97@live.it",
       "password": "$2a$10$tfcnvQF9ynQILB46TwJYzeaLYgjCf9sXRRwqmFY5ttQnb8G4hnQN.",
-      "name": "Gaetano",
+      "name": "Gaetano Quarto",
       "id": 1
     },
     {
-      "email": "giovanni@mail.com",
-      "password": "$2a$10$fUdQ.GPAQwPwXJYCmOWHS.peZL26dPtg2S/agCDOXOvBnr4Tg27oa",
-      "name": "Giovanni",
+      "email": "gaetano@mail.com",
+      "password": "$2a$10$izr8AwRkiZz5108ITElC9OBvOlWEctqv6YHhT86yM3FaOpEPwAly6",
+      "name": "Gaetano Quarto",
       "id": 2
-    },
-    {
-      "email": "luca@mail.com",
-      "password": "$2a$10$14Zl5fJy4qHw7m5pxl2q2eseAc86Tpu./qZ5P5/Vh6HlmiFme0G6m",
-      "name": "Luca",
-      "id": 3
-    },
-    {
-      "email": "nicola@mail.com",
-      "password": "$2a$10$ms66wgsWJ9qLqA3H5Q4ko.04zRObXf9xIP/d/EjbxwEQisIT2vqLC",
-      "name": "nicola",
-      "id": 4
-    },
-    {
-      "email": "flavio@mail.com",
-      "password": "$2a$10$WY2KoOeEBt/SrLBu.VwonuOMUhnZfsnXvVD7qzc7Y5mgGHJgdOzam",
-      "name": "flavio",
-      "id": 5
     }
   ],
   "favorites": [
     {
-      "movieId": 567189,
+      "movieId": 460465,
       "userId": 1,
-      "id": 7
+      "poster_path": "/iW03OMEI3htIAV1P8FwM867PLIj.jpg",
+      "title": "Mortal Kombat",
+      "vote_average": 7.6,
+      "overview": "Un pugile fallito scopre un segreto di famiglia che lo conduce ad un torneo mistico chiamato Mortal Kombat. Qui incontra un gruppo di guerrieri che combattono fino alla morte per salvare i regni dal malvagio stregone Shang Tsung.",
+      "id": 1
     },
     {
-      "movieId": 804435,
+      "movieId": 632357,
       "userId": 1,
-      "id": 8
-    },
-    {
-      "movieId": 615457,
-      "userId": 1,
-      "id": 9
-    },
-    {
-      "movieId": 567189,
-      "userId": 5,
-      "id": 10
-    },
-    {
-      "movieId": 573680,
-      "userId": 5,
-      "id": 11
-    },
-    {
-      "movieId": 791373,
-      "userId": 5,
-      "id": 12
+      "poster_path": "/dxBTcvdH9d6apXZGnThPIVEJ376.jpg",
+      "title": "Il sacro male",
+      "vote_average": 7.3,
+      "overview": "Alice è una giovane ragazza con problemi di udito. Questa, dopo una presunta visita della Vergine Maria, è inspiegabilmente in grado di ascoltare, parlare e curare i malati. Mentre la voce si diffonde e le persone vicine e lontane accorrono per assistere ai suoi miracoli, un giornalista caduto in disgrazia che spera di rilanciare la sua carriera visita la piccola città del New England per indagare. Quando eventi terrificanti iniziano ad accadere attorno alla giovane miracolata, il giornalista inizia a chiedersi se questi fenomeni siano opera della Vergine Maria o qualcosa di molto più sinistro.",
+      "id": 3
     },
     {
       "movieId": 578701,
       "userId": 1,
-      "id": 14
+      "poster_path": "/qDGaNdeIwgHHXKYypo19oupxnrK.jpg",
+      "title": "Quelli che mi vogliono morto",
+      "vote_average": 7.1,
+      "overview": "Un ragazzino, dopo essere stato testimone di un omicidio, si ritrova inseguito da due gemelli assassini nella natura selvaggia del Montana. Con lui c'è un'esperta di sopravvivenza, incaricata di proteggerlo. Un incendio nei boschi minaccerà però la vita di tutti quanti.",
+      "id": 4
+    },
+    {
+      "movieId": 399566,
+      "userId": 1,
+      "poster_path": "/6Xq0gAxrm8KMAKWP4KYYhPWoQXM.jpg",
+      "title": "Godzilla vs. Kong",
+      "vote_average": 8.1,
+      "overview": "In un momento in cui i mostri camminano sulla Terra, la lotta dell'umanità per il suo futuro fa scatenare Godzilla e Kong su una rotta di collisione che vedrà le due forze più potenti della natura sul pianeta scontrarsi in una spettacolare battaglia per secoli. Mentre Monarch intraprende una pericolosa missione in un terreno inesplorato e scopre indizi sulle origini dei Titani, una cospirazione umana minaccia di spazzare via per sempre le creature, sia buone che cattive, dalla faccia della terra.",
+      "id": 5
     }
   ],
   "genres": [

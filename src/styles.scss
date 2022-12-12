@@ -1,1 +1,75 @@
 /* You can add global styles to this file, and also import other style files */
+$bezier: cubic-bezier(.175, .885, .32, 1.275);
+
+body {
+    background-color: #181A20;
+}
+
+.login {
+    background-color: #181A20;
+    border: 1px solid #C1232F;
+}
+
+.logo {
+        font-size: 80px;
+        background: rgb(255,0,18);
+        background: linear-gradient(0deg, rgba(255,0,18,1) 23%, rgba(109,20,26,1) 100%);
+       -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+}
+
+.container100 {
+    height: 100vh;
+}
+.form-control {
+    background-color: #1F212A;
+    border: none;
+    color: white;
+    &:focus {
+        background-color: #771620 ;
+        border-color: #FF0000;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6);
+    color: white;
+    }
+    &:disabled {
+        background-color: #1F212A;
+    border: none;
+    color: white;
+    }
+}
+
+.raise:hover,
+.raise:focus {
+    background-color: rgb(255, 0, 0);
+  box-shadow: 0 0.5em 0.5em -0.6em red;
+}
+
+.card {
+
+    width: 100%; /* Set the width of the card to 100% */
+    background: #181A20;
+ }
+
+ .card-img-overlay {
+    background-color: rgba(0,0,0,0.5); /* Change this to your desired color */
+    color: white; /* Change this to your desired color */
+ }
+
+.cardHover {
+    transition: all .2s ease-in-out;
+    &:hover {
+        transform: scale(1.1);
+    }
+}
+
+.nav-link {
+    color: red;
+    &:hover {
+        color: white;
+    }
+}
+
+.active-link {
+    color: white;
+}
+

@@ -3,5 +3,7 @@ export interface Movie {
       poster_path: string,
       title: string,
       like: boolean,
-      userId: number
+      userId: number,
+      vote_average: number,
+      overview: string
 }
